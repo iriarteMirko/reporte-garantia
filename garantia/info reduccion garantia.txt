@@ -1,0 +1,15 @@
+garantia reduccion.
+DACS que reducieron garantia
+
+identificar que tipo de DAC.
+
+si en enero tenia 50k y en febrero tenia 40k por ejemplo.
+verificar si se compenso deuda con garantía.
+
+verificar si tienen equipos en consignación.
+
+verificar si tienen deuda vencida.
+
+
+
+AGREGAR COLUMNA DE DEUVA VENCIDA, DIAS DE MOROSIDAD, EQUIPOS EN CONSIGNACION, DUEDA POR VENDER.
